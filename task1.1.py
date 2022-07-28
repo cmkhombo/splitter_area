@@ -7,3 +7,4 @@ def sum_of_multiples(_max_num):
 
 
 sum_of_multiples(1000)
+# This code was written by Crown
